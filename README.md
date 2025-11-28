@@ -1,4 +1,4 @@
-# Ecommerce
+# Ecommerce Backend
 
 🟦 Backend – API REST con Node.js + Express + MongoDB + JWT
 Proyecto ABMC · Entidad Principal: Productos · Entidad de Soporte: Compras
